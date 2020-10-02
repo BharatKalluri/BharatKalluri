@@ -11,9 +11,5 @@ Find me around the web:
 - [Linkedin](https://www.linkedin.com/in/bharatkalluri/)
 - [Twitter](https://twitter.com/bharatkalluri)
 
-<img align="left" height=180em width=50vw href="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatkalluri&layout=compact" />
-<img align="right" height=180em width=50vw src="https://github-readme-stats.vercel.app/api?username=bharatkalluri&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-> Credits to [@anuragharza](https://github.com/anuraghazra) for [github-read-stats](https://github.com/anuraghazra/github-readme-stats)
-<hr>
+<img align="left" height=180em href="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatkalluri&layout=compact" />
+<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=bharatkalluri&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>

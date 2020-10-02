@@ -11,5 +11,5 @@ Find me around the web:
 - [Linkedin](https://www.linkedin.com/in/bharatkalluri/)
 - [Twitter](https://twitter.com/bharatkalluri)
 
-<img align="left" height=400em src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatkalluri&theme=vue&hide=css,tcl,html&langs_count=3"></img>
+<img align="left" height=200em src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatkalluri&theme=vue&hide=css,tcl,html&langs_count=3"></img>
 <img align="right" height=200em style="width:50%" src="https://github-readme-stats.vercel.app/api?username=bharatkalluri&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>

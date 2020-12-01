@@ -5,8 +5,8 @@ I'm Bharat! I'm a software enginner passionate about making a dent in the univer
 I strongly believe any knowledge/experience is worth sharing. I try to write what I know (most of the times), and I encourage you to try that too!
 
 Find me around the web:
-- Formal tech articles over at my [Blog](https://bharatkalluri.in)
-- Brain dump at [Digital Garden / Notes](https://notes.bharatkalluri.in)
+- Formal tech articles over at my [Blog](https://bharatkalluri.com)
+- Brain dump at [Digital Garden / Notes](https://bharatkalluri.com/notes)
 - [Dribbble](https://dribbble.com/BharatKalluri)
 - [Linkedin](https://www.linkedin.com/in/bharatkalluri/)
 - [Twitter](https://twitter.com/bharatkalluri)

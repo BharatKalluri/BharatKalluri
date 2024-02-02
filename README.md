@@ -6,8 +6,7 @@ I strongly believe any knowledge/experience is worth sharing. I try to write wha
 
 Find me around the web:
 - Formal tech articles over at my [Blog](https://bharatkalluri.com)
-- Brain dump at [Digital Garden / Notes](https://bharatkalluri.com/notes)
-- Attempting to document everything I know at [Wiki](https://notes.bharatkalluri.com)
+- Brain dump to document my thoughts and everything I know at [Digital Garden / Notes](https://notes.bharatkalluri.com)
+- [Twitter](https://twitter.com/bharatkalluri)
 - [Linkedin](https://www.linkedin.com/in/bharatkalluri/)
 - [Dribbble](https://dribbble.com/BharatKalluri)
-- [Twitter](https://twitter.com/bharatkalluri)
